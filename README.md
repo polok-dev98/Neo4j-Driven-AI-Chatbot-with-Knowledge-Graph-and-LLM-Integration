@@ -38,8 +38,8 @@ A cutting-edge AI AssistPro Smart Agent for Customer Interaction system that com
   <li>Clone the repository:</li>
 
   ```bash
-git clone https://github.com/Bikas0/AI-AssistPro-Smart-Agent-for-Customer-Interaction-and-Business-Efficiency.git
-cd  AI-AssistPro-Smart-Agent-for-Customer-Interaction-and-Business-Efficiency
+git clone https://github.com/polok-dev98/Neo4j-Driven-AI-Chatbot-with-KnowledgeGraph-and-LLM-Integration
+cd  Neo4j-Driven-AI-Chatbot-with-KnowledgeGraph-and-LLM-Integration
 ```
 </ul>
 
@@ -55,13 +55,13 @@ docker-compose up --build -d
 <li>Pgadmin Credentials</li>
 
 ```bash
-Email: vivasoft@gmail.com
-Password: Vivasoft
+Email: xyz@gmail.com
+Password: password
 ```
 <li>Postgres Database Credential</li>
 
 ```bash
-Password: Vivasoft2025
+Password: password2025
 ```
 
 <li>Neo4j Graph Database Credential</li>
@@ -70,7 +70,7 @@ Password: Vivasoft2025
 Browser_address: http://localhost:7474
 Connect_URL= neo4j://localhost:7687
 user: neo4j
-Password: Vivasoft
+Password: password
 ```
 
 
